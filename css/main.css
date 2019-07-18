@@ -1,0 +1,318 @@
+.div1 {
+	height: 100px;
+	background: #89EFDD;
+	position: relative;
+}
+.w1200{
+	width: 1200px;
+	margin: 0 auto;
+}
+.son {
+	height: 100px;
+}
+
+.top1 {
+	height: 31px;
+	background: #F2F2F2;
+	position: relative;
+}
+
+.son1 {
+	height: 31px;
+}
+
+.con1 {
+	width: 132px;
+	color: #666666;
+}
+
+.con {
+	height: 30px;
+	line-height: 30px;
+	float: left;
+}
+
+.con2 {
+	width: 24px;
+	margin: 0 0 0 7px;
+}
+
+.o {
+	color: #D1D1D1;
+	width: 6px;
+	margin: 0px 9px;
+}
+
+
+.on {
+	color: #000000;
+}
+
+.a1 {
+	color: #E60000;
+}
+
+.on:hover {
+	color: #E60000;
+	text-decoration: underline;
+}
+
+.right {
+	width: 414px;
+	padding: 1px 0px 0px 0px;
+}
+
+.font {
+	font-size: 12px;
+	font-family: "宋体";
+}
+
+.rt {
+	height: 30px;
+	float: right;
+	line-height: 30px;
+}
+.xia{
+	float: left;
+}
+
+.w1 {
+	width: 48px;
+	float: right;
+	padding: 0px 26px 0 14px;
+}
+
+.w2 {
+	width: 48px;
+	padding: 0px 16px;
+}
+
+.w3 {
+	width: 36px;
+	padding: 0px 16px;
+}
+
+.top2{
+	height: 100px;
+	position: relative;
+}
+.main{
+	width: 1200px;
+	height: 100px;
+	margin: 0 auto;
+}
+.logo{
+	width: 248px;
+	height: 54px;
+	padding: 21px 0px 25px;
+	margin: 0px 26px 0px 0px;
+	float: left;
+	line-height: 54px;
+}
+.word{
+	width: 673px;
+	height: 28px;
+	float: left;
+	margin: 0px;
+}
+.word a{
+	height: 28px;
+	font-size: 12px;
+	font-family: "宋体";
+	color: #999999;
+	margin: 0px 20px 0px 0px;
+}
+.word a:hover{
+	color: red;
+}
+.f{
+	width: 673px;
+	height: 40px;
+	/* background: chocolate; */
+	float: left;
+	margin: 23px 0px 0px 0px;
+}
+
+.in{
+	width: 606px;
+	height: 36px;
+	border: 2px solid #E60000;
+	float: left;
+}
+.search{
+	width: 48px;
+	height: 40px;
+	margin: 0px 0px 0px 15px;
+	text-align: center;
+	line-height: 40px;
+	background: white;
+	float: right;
+}
+.inputWord{
+	width: 508px;
+	height: 22px;
+	padding: 8px 0px;
+	line-height: 22px;
+	float: left;
+}
+.put{
+	width: 508px;
+	height: 20px;
+	border: transparent;
+	float: left;
+}
+.sou{
+	width: 98px;
+	height: 36px;
+	text-align: center;
+	float: left;
+	line-height: 36px;
+	background: #E60000;
+}
+.search
+.a2{
+	color: red;
+	font-size: 12px;
+}
+.notice{
+	width: 135px;
+	height: 40px;
+	padding: 0px 0px 0px 33px;
+	margin: 25px 25px 0px 0px;
+	background: darkslategrey;
+	float: left;
+}
+
+.you{
+	width: 45px;
+	height: 175px;
+	position: fixed;
+	top: 50%;
+	right: 0;
+	z-index: 20;
+	margin: -90px 0 0;
+	background: #999999;
+}
+
+.you.mini{
+	width: 45px;
+	height: 36px;
+	border-bottom: 1px solid white;
+}
+.one:hover{
+	background-color: #E60000;
+	position: relative;
+	top: 0px;
+	right: 0px;
+}
+
+.zuo{
+	position: fixed;
+	left: 0px;
+	top:50%;
+}
+
+.nav{
+	height: 44px;
+	background: transparent;
+	position: relative;
+}
+.nav-one{
+	width: 1200px;
+	height: 44px;
+	margin: 0 auto;
+	background: yellow;
+}
+.nav-one-yi{
+	width: 200px;
+	height: 42px;
+	float: left;
+}
+.nav-one  li{
+	float: left;
+	height: 42px;
+	padding: 0px 26px;
+	font-size: 18px;
+	text-align: center;
+	line-height: 42px;
+}
+.fen{
+	width: 16px;
+	height: 15px;
+}
+.nav-one  span{
+	float: left;
+	height: 42px;
+	padding: 0px 26px;
+	font-size: 18px;
+	text-align: center;
+	line-height: 42px;
+}
+.zi{
+	width: 1200px;
+}
+.top2 .a:hover{
+	text-decoration: underline;
+}
+.san{
+				width: 8px;
+				height: 4px;
+				position: absolute;
+				left: 68px;
+				top: 12px;
+				background:url(img/箭头.png) no-repeat 0 0;
+			}
+
+.bannerWrap{
+	height: 360px;
+	top: 5px;
+	position: relative;
+}
+.wrap{
+	height: 360px;
+	background: red;
+}
+		
+.lunbo{
+	width: 990px;
+	height: 360px;
+	background-image: url(http://image31.bookschina.com/pro-images/190710sx/990360.jpg);
+	position: relative;
+	float: right;
+}
+.cla{
+	width:990px;
+	height: 34px;
+	/* float: left; */
+	position: absolute;
+	bottom: 0px;
+	background-color: rgba(0,,0,0.5);
+}
+
+.box{
+	width: 178px;
+	height: 34px;
+	padding: 0px 10px;
+	margin: 3px 0px;
+	text-align: center;
+	line-height: 34px;
+}
+
+.list{
+	width: 200px;
+	height: 706px;
+	font-size:12px;
+	 font-family: "宋体";
+}
+.category{
+	width: 196px;
+	height: 118px;
+	padding: 0px 0px 0px 11px;
+}
+.name{
+	width: 185px;
+	height: 21px;
+	padding: 8px 0px 0px;
+}
+
+	
